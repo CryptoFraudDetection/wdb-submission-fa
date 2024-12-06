@@ -26,7 +26,8 @@ The code can be found in the folder `main`. The folder `main` is a submodule tha
 - `main/tests/test_scraper_reddit.py` Test for the Reddit Scraper.
 - `main/tests/test_sentiment.py`      Test for the Sentiment Analysis.
 - `main/notebooks/`  Challenge Repository notebooks folder.
-- `main/notebooks/90-wdb-scrape-reddit.qmd` Notebook for scraping Reddit.
+- `main/notebooks/90-wdb-scrape-reddit.html` Quarto Notebook for scraping Reddit (rendered as HTML).
+- `main/notebooks/90-wdb-scrape-reddit.qmd` Quarto Notebook for scraping Reddit.
 - `main/src/CryptoFraudDetection/scraper/reddit.py` Reddit Scraper.
 - `main/src/CryptoFraudDetection/utils/sentiment.py` Sentiment Analysis.
 
